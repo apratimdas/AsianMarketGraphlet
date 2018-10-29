@@ -1,0 +1,1693 @@
+Reporter -- Partner
+Afghanistan <-- World : 6534140413
+Afghanistan --> World : 596455337
+Afghanistan <-- Azerbaijan : 14688487
+Afghanistan <-- Argentina : 79799
+Afghanistan <-- Australia : 5554109
+Afghanistan --> Australia : 455832
+Afghanistan <-- Austria : 910629
+Afghanistan <-- Bangladesh : 2929680
+Afghanistan --> Bangladesh : 177188
+Afghanistan <-- Belgium : 1008152
+Afghanistan --> Belgium : 1231243
+Afghanistan <-- Brazil : 8376636
+Afghanistan <-- Bulgaria : 92359
+Afghanistan --> Myanmar : 19538
+Afghanistan <-- Canada : 6702967
+Afghanistan --> Canada : 609003
+Afghanistan <-- Sri Lanka : 2177939
+Afghanistan <-- China : 1092707519
+Afghanistan --> China : 4754161
+Afghanistan <-- Colombia : 6187
+Afghanistan <-- Czechia : 181537
+Afghanistan <-- Denmark : 1028242
+Afghanistan --> Denmark : 5495
+Afghanistan <-- Ecuador : 4881
+Afghanistan <-- Ethiopia : 42300
+Afghanistan <-- Estonia : 105739
+Afghanistan <-- Finland : 225488
+Afghanistan --> Finland : 488068
+Afghanistan <-- France : 5401786
+Afghanistan --> France : 1408046
+Afghanistan <-- Georgia : 18870
+Afghanistan <-- Germany : 29431042
+Afghanistan --> Germany : 4405604
+Afghanistan <-- Greece : 3305
+Afghanistan <-- Guatemala : 391661
+Afghanistan <-- China, Hong Kong SAR : 1278763
+Afghanistan <-- Hungary : 461879
+Afghanistan --> Hungary : 5432
+Afghanistan <-- Iceland : 49578
+Afghanistan <-- Indonesia : 36756177
+Afghanistan <-- Iran : 1265139067
+Afghanistan --> Iran : 18822947
+Afghanistan --> Iraq : 11184770
+Afghanistan <-- Ireland : 6817689
+Afghanistan <-- Israel : 251
+Afghanistan <-- Italy : 5421330
+Afghanistan --> Italy : 136779
+Afghanistan <-- Japan : 248690628
+Afghanistan --> Japan : 83282
+Afghanistan <-- Kazakhstan : 621624666
+Afghanistan --> Kazakhstan : 3988416
+Afghanistan <-- Jordan : 920428
+Afghanistan --> Jordan : 1367950
+Afghanistan <-- Kenya : 47257432
+Afghanistan <-- Rep. of Korea : 41151951
+Afghanistan <-- Kyrgyzstan : 84290
+Afghanistan <-- Lebanon : 1516701
+Afghanistan --> Lebanon : 469702
+Afghanistan <-- Lithuania : 1426863
+Afghanistan --> Lithuania : 27000
+Afghanistan <-- Malaysia : 264863333
+Afghanistan --> Malaysia : 104030
+Afghanistan <-- Maldives : 106212
+Afghanistan <-- Mexico : 1126732
+Afghanistan <-- Other Asia, nes : 5064012
+Afghanistan <-- Netherlands : 5070599
+Afghanistan --> Netherlands : 53128
+Afghanistan <-- New Zealand : 767294
+Afghanistan --> New Zealand : 39057
+Afghanistan <-- Norway : 65440
+Afghanistan --> Norway : 1029
+Afghanistan <-- Pakistan : 1198759334
+Afghanistan --> Pakistan : 283316886
+Afghanistan <-- Philippines : 314221
+Afghanistan <-- Poland : 3379764
+Afghanistan --> Poland : 4511
+Afghanistan <-- Portugal : 282616
+Afghanistan --> Portugal : 13410
+Afghanistan <-- Romania : 37491
+Afghanistan --> Romania : 116409
+Afghanistan <-- Russian Federation : 138792029
+Afghanistan --> Russian Federation : 3486361
+Afghanistan <-- Saudi Arabia : 9820457
+Afghanistan --> Saudi Arabia : 1138002
+Afghanistan <-- Serbia : 15673
+Afghanistan <-- India : 152876873
+Afghanistan --> India : 230037526
+Afghanistan <-- Singapore : 5559442
+Afghanistan --> Singapore : 75276
+Afghanistan <-- Slovakia : 399272
+Afghanistan --> Slovakia : 43068
+Afghanistan <-- Viet Nam : 57734429
+Afghanistan --> Viet Nam : 607844
+Afghanistan <-- South Africa : 680311
+Afghanistan --> South Africa : 70677
+Afghanistan <-- Spain : 1852642
+Afghanistan --> Spain : 46083
+Afghanistan <-- Sudan : 80281
+Afghanistan <-- Sweden : 3395513
+Afghanistan --> Sweden : 43348
+Afghanistan <-- Switzerland : 5398693
+Afghanistan --> Switzerland : 26433
+Afghanistan <-- Tajikistan : 79680632
+Afghanistan --> Tajikistan : 893702
+Afghanistan <-- Thailand : 18528893
+Afghanistan --> Thailand : 12565
+Afghanistan <-- United Arab Emirates : 200385452
+Afghanistan --> United Arab Emirates : 9368012
+Afghanistan <-- Turkey : 78319073
+Afghanistan --> Turkey : 12147012
+Afghanistan <-- Turkmenistan : 355401308
+Afghanistan --> Turkmenistan : 1754656
+Afghanistan <-- Ukraine : 5634849
+Afghanistan --> Ukraine : 478
+Afghanistan <-- Egypt : 609340
+Afghanistan --> Egypt : 1721
+Afghanistan <-- United Kingdom : 7995003
+Afghanistan --> United Kingdom : 1689800
+Afghanistan <-- United Rep. of Tanzania : 1807
+Afghanistan <-- USA : 73432839
+Afghanistan --> USA : 1312089
+Afghanistan <-- Uruguay : 18558
+Afghanistan <-- Uzbekistan : 399144420
+Afghanistan --> Uzbekistan : 411764
+Afghanistan <-- Samoa : 7878569
+Afghanistan <-- Areas, nes : 1
+Afghanistan --> Areas, nes : 1
+Reporter -- Partner
+Albania <-- World : 4669289913
+Albania --> World : 1962117416
+Albania <-- Afghanistan : 556
+Albania --> Afghanistan : 167
+Albania <-- Algeria : 9294404
+Albania --> Algeria : 12918
+Albania <-- American Samoa : 481
+Albania <-- Andorra : 28980
+Albania --> Andorra : 4250
+Albania <-- Antigua and Barbuda : 8591
+Albania <-- Azerbaijan : 65468
+Albania --> Azerbaijan : 64539
+Albania <-- Argentina : 7372771
+Albania --> Argentina : 26301
+Albania <-- Australia : 883484
+Albania --> Australia : 558750
+Albania <-- Austria : 51399939
+Albania --> Austria : 9570239
+Albania <-- Bahamas : 5759
+Albania <-- Bahrain : 85404
+Albania --> Bahrain : 5766
+Albania <-- Bangladesh : 5877279
+Albania --> Bangladesh : 42943
+Albania <-- Armenia : 4173
+Albania --> Armenia : 557
+Albania <-- Barbados : 2724
+Albania <-- Belgium : 26453404
+Albania --> Belgium : 2735199
+Albania <-- Bermuda : 8077
+Albania <-- Bolivia (Plurinational State of) : 17389
+Albania <-- Bosnia Herzegovina : 29238443
+Albania --> Bosnia Herzegovina : 7419854
+Albania --> Botswana : 689
+Albania <-- Bouvet Island : 1946
+Albania <-- Brazil : 45851928
+Albania --> Brazil : 129973
+Albania <-- Belize : 4477
+Albania <-- Br. Indian Ocean Terr. : 144
+Albania <-- Br. Virgin Isds : 4092
+Albania --> Br. Virgin Isds : 84686
+Albania <-- Brunei Darussalam : 1627
+Albania <-- Bulgaria : 61943917
+Albania --> Bulgaria : 23795866
+Albania <-- Myanmar : 89173
+Albania <-- Burundi : 89
+Albania <-- Belarus : 275666
+Albania --> Belarus : 7842
+Albania <-- Cambodia : 855247
+Albania <-- Cameroon : 329699
+Albania --> Cameroon : 278847
+Albania <-- Canada : 14691796
+Albania --> Canada : 1270242
+Albania <-- Cabo Verde : 162392
+Albania --> Cayman Isds : 4940371
+Albania <-- Sri Lanka : 393037
+Albania --> Sri Lanka : 76304
+Albania --> Chad : 66343
+Albania <-- Chile : 323434
+Albania --> Chile : 231229
+Albania <-- China : 409609792
+Albania --> China : 60048274
+Albania <-- Colombia : 4913224
+Albania --> Colombia : 58073
+Albania <-- Congo : 63892
+Albania --> Congo : 22582
+Albania <-- Cook Isds : 1835
+Albania <-- Costa Rica : 324484
+Albania <-- Croatia : 35560630
+Albania --> Croatia : 7595019
+Albania <-- Cuba : 1178186
+Albania <-- Cyprus : 2780905
+Albania --> Cyprus : 233900
+Albania <-- Czechia : 44811942
+Albania --> Czechia : 11744385
+Albania <-- Benin : 1413
+Albania --> Benin : 12548
+Albania <-- Denmark : 8095892
+Albania --> Denmark : 6905243
+Albania <-- Dominica : 24635
+Albania <-- Dominican Rep. : 149382
+Albania <-- Ecuador : 16042823
+Albania <-- El Salvador : 130992
+Albania --> Equatorial Guinea : 34775
+Albania <-- Ethiopia : 152917
+Albania --> Ethiopia : 1613
+Albania <-- Estonia : 3093930
+Albania --> Estonia : 3519848
+Albania <-- Falkland Isds (Malvinas) : 248035
+Albania <-- Fiji : 325
+Albania <-- Finland : 10909695
+Albania --> Finland : 101422
+Albania <-- France : 92566527
+Albania --> France : 20884983
+Albania <-- Djibouti : 1380
+Albania --> Djibouti : 6201
+Albania <-- Gabon : 289708
+Albania <-- Georgia : 54018
+Albania --> Georgia : 50205
+Albania <-- Germany : 443465250
+Albania --> Germany : 66738724
+Albania <-- Ghana : 177184
+Albania --> Ghana : 12134
+Albania <-- Gibraltar : 7
+Albania <-- Greece : 368166859
+Albania --> Greece : 89849569
+Albania <-- Greenland : 1090207
+Albania <-- Grenada : 1267
+Albania <-- Guam : 4824
+Albania <-- Guatemala : 404326
+Albania <-- Guinea : 9447
+Albania --> Guinea : 19420
+Albania <-- Guyana : 1663
+Albania <-- Honduras : 105469
+Albania <-- China, Hong Kong SAR : 4010012
+Albania --> China, Hong Kong SAR : 6719803
+Albania <-- Hungary : 39763706
+Albania --> Hungary : 19451528
+Albania <-- Iceland : 77112
+Albania <-- Indonesia : 12895092
+Albania --> Indonesia : 49296
+Albania <-- Iran : 2468959
+Albania --> Iran : 119194
+Albania <-- Iraq : 491087
+Albania --> Iraq : 2286871
+Albania <-- Ireland : 15951263
+Albania --> Ireland : 182936
+Albania <-- Israel : 7066638
+Albania --> Israel : 191936
+Albania <-- Italy : 1367176091
+Albania --> Italy : 1070835381
+Albania <-- Côte d'Ivoire : 279685
+Albania --> Côte d'Ivoire : 347638
+Albania <-- Jamaica : 1782
+Albania <-- Japan : 24355981
+Albania --> Japan : 3133047
+Albania <-- Kazakhstan : 146706
+Albania <-- Jordan : 456591
+Albania --> Jordan : 217967
+Albania <-- Kenya : 306261
+Albania --> Kenya : 11309
+Albania <-- Dem. People's Rep. of Korea : 35167
+Albania <-- Rep. of Korea : 30714895
+Albania --> Rep. of Korea : 101830
+Albania <-- Kuwait : 27025
+Albania --> Kuwait : 240673
+Albania <-- Kyrgyzstan : 63788
+Albania --> Kyrgyzstan : 14566
+Albania <-- Lao People's Dem. Rep. : 7738
+Albania <-- Lebanon : 104720
+Albania --> Lebanon : 308240
+Albania <-- Latvia : 1174571
+Albania --> Latvia : 571079
+Albania <-- Liberia : 274
+Albania --> Liberia : 1177
+Albania <-- Libya : 10924092
+Albania --> Libya : 4989108
+Albania <-- Lithuania : 2914418
+Albania --> Lithuania : 620796
+Albania <-- Luxembourg : 505566
+Albania --> Luxembourg : 71271
+Albania <-- China, Macao SAR : 3832
+Albania --> China, Macao SAR : 16788
+Albania <-- Madagascar : 12406
+Albania <-- Malaysia : 6704772
+Albania --> Malaysia : 8198
+Albania <-- Maldives : 661
+Albania <-- Mali : 2343
+Albania <-- Malta : 48038
+Albania --> Malta : 64596489
+Albania <-- Mauritania : 48701
+Albania <-- Mauritius : 52619
+Albania --> Mauritius : 4155
+Albania <-- Mexico : 4788625
+Albania --> Mexico : 184615
+Albania <-- Other Asia, nes : 10730620
+Albania --> Other Asia, nes : 196998
+Albania <-- Rep. of Moldova : 610242
+Albania --> Rep. of Moldova : 193342
+Albania <-- Montenegro : 21913488
+Albania --> Montenegro : 35278433
+Albania <-- Morocco : 2854239
+Albania --> Morocco : 110132
+Albania <-- Oman : 18395
+Albania --> Oman : 25171
+Albania <-- Namibia : 3348
+Albania <-- Nepal : 40550
+Albania <-- Netherlands : 36837957
+Albania --> Netherlands : 10699968
+Albania <-- Aruba : 292
+Albania <-- New Caledonia : 242
+Albania <-- New Zealand : 569487
+Albania --> New Zealand : 533
+Albania <-- Nicaragua : 30644
+Albania <-- Niger : 3873
+Albania --> Niger : 36127
+Albania <-- Nigeria : 28117
+Albania --> Nigeria : 18844
+Albania <-- Norway : 3206638
+Albania --> Norway : 139641
+Albania <-- United States Minor Outlying Islands : 15178
+Albania <-- Marshall Isds : 6380
+Albania --> Marshall Isds : 2375599
+Albania <-- Pakistan : 5822853
+Albania --> Pakistan : 12159
+Albania <-- Panama : 682203
+Albania <-- Papua New Guinea : 1575
+Albania <-- Paraguay : 324783
+Albania <-- Peru : 678639
+Albania --> Peru : 57485
+Albania <-- Philippines : 713150
+Albania <-- Poland : 72867844
+Albania --> Poland : 3211760
+Albania <-- Portugal : 11059951
+Albania --> Portugal : 493201
+Albania <-- Qatar : 2620305
+Albania --> Qatar : 17135
+Albania <-- Romania : 56629602
+Albania --> Romania : 27676626
+Albania <-- Russian Federation : 87791173
+Albania --> Russian Federation : 490811
+Albania <-- Saint Helena : 6791
+Albania <-- Saint Kitts and Nevis : 869
+Albania <-- Anguilla : 11730
+Albania <-- Saint Vincent and the Grenadines : 4021
+Albania <-- San Marino : 344684
+Albania <-- Saudi Arabia : 5432916
+Albania --> Saudi Arabia : 431080
+Albania <-- Senegal : 46794
+Albania --> Senegal : 24540
+Albania <-- Serbia : 192752429
+Albania --> Serbia : 171675750
+Albania <-- Sierra Leone : 10779
+Albania <-- India : 41293091
+Albania --> India : 4992687
+Albania <-- Singapore : 1369333
+Albania --> Singapore : 734043
+Albania <-- Slovakia : 13263856
+Albania --> Slovakia : 2609606
+Albania <-- Viet Nam : 14833752
+Albania --> Viet Nam : 332
+Albania <-- Slovenia : 30196593
+Albania --> Slovenia : 11036453
+Albania <-- South Africa : 2248191
+Albania --> South Africa : 1141106
+Albania <-- Zimbabwe : 317
+Albania <-- Spain : 102187200
+Albania --> Spain : 64417976
+Albania <-- Sudan : 1945
+Albania --> Sudan : 18928
+Albania <-- Suriname : 25611
+Albania <-- Swaziland : 43669
+Albania --> Swaziland : 3054
+Albania <-- Sweden : 17259675
+Albania --> Sweden : 4449701
+Albania <-- Switzerland : 55003019
+Albania --> Switzerland : 20739024
+Albania <-- Syria : 16415
+Albania --> Syria : 5359
+Albania <-- Thailand : 11154488
+Albania --> Thailand : 147828
+Albania --> Togo : 28032
+Albania <-- Tokelau : 373
+Albania <-- Trinidad and Tobago : 2566
+Albania <-- United Arab Emirates : 5355857
+Albania --> United Arab Emirates : 6311189
+Albania <-- Tunisia : 8158669
+Albania --> Tunisia : 541498
+Albania <-- Turkey : 368022514
+Albania --> Turkey : 22587876
+Albania <-- Turkmenistan : 691040
+Albania --> Turkmenistan : 664202
+Albania <-- Turks and Caicos Isds : 3329
+Albania <-- Tuvalu : 1361
+Albania <-- Uganda : 240464
+Albania --> Uganda : 9
+Albania <-- Ukraine : 28933817
+Albania --> Ukraine : 1633074
+Albania <-- TFYR of Macedonia : 62675476
+Albania --> TFYR of Macedonia : 51740214
+Albania <-- Egypt : 30777461
+Albania --> Egypt : 3385871
+Albania <-- United Kingdom : 33526218
+Albania --> United Kingdom : 4291904
+Albania <-- United Rep. of Tanzania : 142911
+Albania --> United Rep. of Tanzania : 1645
+Albania <-- USA : 87827454
+Albania --> USA : 12925669
+Albania <-- Burkina Faso : 153
+Albania <-- Uruguay : 211080
+Albania <-- Uzbekistan : 53917
+Albania <-- Venezuela : 135746
+Albania <-- Wallis and Futuna Isds : 393
+Albania --> Yemen : 5641
+Albania <-- Areas, nes : 5268908
+Albania --> Areas, nes : 100477
+Reporter -- Partner
+Algeria <-- World : 47090683586
+Algeria --> World : 29992101470
+Algeria <-- Afghanistan : 46935
+Algeria --> Afghanistan : 91
+Algeria <-- Albania : 807656
+Algeria --> Albania : 8052475
+Algeria <-- Andorra : 50030
+Algeria <-- Angola : 637419
+Algeria --> Angola : 6933326
+Algeria <-- Antigua and Barbuda : 187528
+Algeria --> Antigua and Barbuda : 1197
+Algeria <-- Azerbaijan : 119977
+Algeria --> Azerbaijan : 147405
+Algeria <-- Argentina : 1334976414
+Algeria --> Argentina : 44147377
+Algeria <-- Australia : 16486469
+Algeria --> Australia : 175839636
+Algeria <-- Austria : 351572047
+Algeria --> Austria : 377962
+Algeria <-- Bahamas : 20445
+Algeria --> Bahamas : 44528533
+Algeria <-- Bahrain : 85782922
+Algeria --> Bahrain : 127896
+Algeria <-- Bangladesh : 18719745
+Algeria --> Bangladesh : 869958
+Algeria <-- Armenia : 109109
+Algeria --> Armenia : 75
+Algeria <-- Barbados : 19
+Algeria --> Barbados : 47878
+Algeria <-- Belgium : 605129456
+Algeria --> Belgium : 987319127
+Algeria <-- Bermuda : 884
+Algeria <-- Bhutan : 745
+Algeria <-- Bolivia (Plurinational State of) : 58999
+Algeria <-- Bosnia Herzegovina : 4451644
+Algeria --> Bosnia Herzegovina : 71
+Algeria <-- Botswana : 280323
+Algeria <-- Brazil : 1209131627
+Algeria --> Brazil : 1616165310
+Algeria <-- Belize : 56141
+Algeria <-- Bulgaria : 260991899
+Algeria --> Bulgaria : 2405984
+Algeria <-- Myanmar : 172765
+Algeria --> Myanmar : 43
+Algeria <-- Burundi : 90575
+Algeria <-- Belarus : 1604878
+Algeria --> Belarus : 75
+Algeria <-- Cambodia : 5626809
+Algeria --> Cambodia : 36620
+Algeria <-- Cameroon : 8980696
+Algeria --> Cameroon : 407353
+Algeria <-- Canada : 519569927
+Algeria --> Canada : 1300743241
+Algeria <-- Cabo Verde : 211982
+Algeria --> Cabo Verde : 289450
+Algeria <-- Central African Rep. : 24637
+Algeria <-- Sri Lanka : 2599727
+Algeria --> Sri Lanka : 8253
+Algeria <-- Chad : 11060
+Algeria --> Chad : 15886
+Algeria <-- Chile : 7905810
+Algeria <-- China : 8409854958
+Algeria --> China : 333398312
+Algeria <-- Colombia : 5971462
+Algeria --> Colombia : 84
+Algeria <-- Comoros : 202569
+Algeria <-- Congo : 1304316
+Algeria --> Congo : 52368
+Algeria <-- Dem. Rep. of the Congo : 940
+Algeria <-- Costa Rica : 1686881
+Algeria --> Costa Rica : 91
+Algeria <-- Croatia : 51212286
+Algeria --> Croatia : 3737583
+Algeria <-- Cuba : 2108230
+Algeria --> Cuba : 217862466
+Algeria <-- Cyprus : 31532718
+Algeria --> Cyprus : 3265511
+Algeria <-- Czechia : 190304363
+Algeria --> Czechia : 7463
+Algeria <-- Benin : 16823
+Algeria --> Benin : 1317052
+Algeria <-- Denmark : 138722064
+Algeria --> Denmark : 859566
+Algeria <-- Dominica : 6196
+Algeria <-- Dominican Rep. : 425484
+Algeria --> Dominican Rep. : 9565096
+Algeria <-- Ecuador : 138357945
+Algeria --> Ecuador : 286
+Algeria <-- El Salvador : 1997663
+Algeria <-- Equatorial Guinea : 12481
+Algeria --> Equatorial Guinea : 104366
+Algeria <-- Ethiopia : 1489074
+Algeria <-- Eritrea : 3153
+Algeria <-- Estonia : 29280339
+Algeria --> Estonia : 843
+Algeria <-- Falkland Isds (Malvinas) : 63569
+Algeria <-- Fiji : 10607
+Algeria <-- Finland : 227310313
+Algeria --> Finland : 1143
+Algeria <-- France : 4773926390
+Algeria --> France : 3424138889
+Algeria <-- Gabon : 19894
+Algeria --> Gabon : 5487
+Algeria <-- Georgia : 790298
+Algeria --> Georgia : 668171
+Algeria <-- Gambia : 7546
+Algeria --> Gambia : 359233
+Algeria <-- State of Palestine : 2015566
+Algeria <-- Germany : 3024539114
+Algeria --> Germany : 63438404
+Algeria <-- Ghana : 845301
+Algeria --> Ghana : 2479339
+Algeria <-- Greece : 267692527
+Algeria --> Greece : 161448983
+Algeria <-- Grenada : 34870
+Algeria <-- Guatemala : 310569
+Algeria --> Guatemala : 80832
+Algeria <-- Guinea : 352436
+Algeria --> Guinea : 2323538
+Algeria <-- Guyana : 1097
+Algeria --> Guyana : 31208
+Algeria <-- Haiti : 6979898
+Algeria <-- Honduras : 103303
+Algeria <-- China, Hong Kong SAR : 10509388
+Algeria --> China, Hong Kong SAR : 429806
+Algeria <-- Hungary : 156052548
+Algeria --> Hungary : 116
+Algeria <-- Iceland : 709027
+Algeria <-- Indonesia : 189664101
+Algeria --> Indonesia : 327410539
+Algeria <-- Iran : 22462032
+Algeria --> Iran : 2667
+Algeria <-- Iraq : 146763
+Algeria --> Iraq : 360140
+Algeria <-- Ireland : 166155669
+Algeria --> Ireland : 8826067
+Algeria <-- Italy : 4645652697
+Algeria --> Italy : 5208346000
+Algeria <-- Côte d'Ivoire : 119653628
+Algeria --> Côte d'Ivoire : 8019957
+Algeria --> Jamaica : 76
+Algeria <-- Japan : 476429725
+Algeria --> Japan : 163749378
+Algeria <-- Kazakhstan : 7479179
+Algeria <-- Jordan : 147906528
+Algeria --> Jordan : 55650442
+Algeria <-- Kenya : 909805
+Algeria --> Kenya : 3393439
+Algeria <-- Dem. People's Rep. of Korea : 2325811
+Algeria <-- Rep. of Korea : 1091889240
+Algeria --> Rep. of Korea : 234525491
+Algeria <-- Kuwait : 17052744
+Algeria --> Kuwait : 220861
+Algeria <-- Kyrgyzstan : 748147
+Algeria <-- Lao People's Dem. Rep. : 27803
+Algeria <-- Lebanon : 43791505
+Algeria --> Lebanon : 17862064
+Algeria <-- Lesotho : 133412
+Algeria <-- Latvia : 63871172
+Algeria <-- Liberia : 13749992
+Algeria --> Liberia : 186781
+Algeria <-- Libya : 183
+Algeria --> Libya : 31053244
+Algeria <-- Lithuania : 76506917
+Algeria --> Lithuania : 48251
+Algeria <-- Luxembourg : 26368691
+Algeria --> Luxembourg : 297
+Algeria <-- Madagascar : 964990
+Algeria <-- Malawi : 1333175
+Algeria <-- Malaysia : 146535225
+Algeria --> Malaysia : 102365589
+Algeria <-- Maldives : 141004
+Algeria --> Maldives : 875
+Algeria <-- Mali : 61102
+Algeria --> Mali : 998891
+Algeria <-- Malta : 29391380
+Algeria --> Malta : 56347710
+Algeria <-- Mauritania : 231433
+Algeria --> Mauritania : 38522385
+Algeria <-- Mauritius : 1383987
+Algeria --> Mauritius : 18605
+Algeria <-- Mexico : 272205015
+Algeria --> Mexico : 49518583
+Algeria <-- Other Asia, nes : 112029286
+Algeria --> Other Asia, nes : 52818824
+Algeria <-- Mongolia : 912
+Algeria <-- Rep. of Moldova : 2235173
+Algeria <-- Morocco : 269640559
+Algeria --> Morocco : 499056202
+Algeria <-- Mozambique : 25369
+Algeria <-- Oman : 74626536
+Algeria --> Oman : 26332
+Algeria <-- Namibia : 343342
+Algeria <-- Netherlands : 746295582
+Algeria --> Netherlands : 1470836701
+Algeria <-- Curaçao : 215273
+Algeria <-- New Caledonia : 108
+Algeria <-- New Zealand : 390905060
+Algeria --> New Zealand : 76773
+Algeria <-- Nicaragua : 28559
+Algeria <-- Niger : 4916
+Algeria --> Niger : 310775
+Algeria <-- Nigeria : 1324394
+Algeria --> Nigeria : 8021055
+Algeria <-- Norway : 53073301
+Algeria --> Norway : 4808608
+Algeria <-- FS Micronesia : 1575
+Algeria <-- Pakistan : 26953742
+Algeria --> Pakistan : 67633
+Algeria <-- Panama : 291504
+Algeria --> Panama : 27855
+Algeria <-- Paraguay : 28178643
+Algeria <-- Peru : 16731791
+Algeria <-- Philippines : 12953114
+Algeria --> Philippines : 38161
+Algeria <-- Poland : 459095919
+Algeria --> Poland : 16249534
+Algeria <-- Portugal : 610529615
+Algeria --> Portugal : 848679063
+Algeria <-- Qatar : 79060933
+Algeria --> Qatar : 1750980
+Algeria <-- Romania : 569571967
+Algeria --> Romania : 62577
+Algeria <-- Russian Federation : 588411409
+Algeria --> Russian Federation : 8068600
+Algeria <-- Saint Kitts and Nevis : 11286
+Algeria --> Saint Kitts and Nevis : 2208485
+Algeria <-- Saint Vincent and the Grenadines : 50979
+Algeria <-- San Marino : 124908
+Algeria <-- Sao Tome and Principe : 115
+Algeria <-- Saudi Arabia : 646461202
+Algeria --> Saudi Arabia : 7604700
+Algeria <-- Senegal : 889157
+Algeria --> Senegal : 7741689
+Algeria <-- Serbia : 74388976
+Algeria --> Serbia : 336
+Algeria <-- Seychelles : 2995759
+Algeria --> Seychelles : 4666
+Algeria <-- Sierra Leone : 23636
+Algeria --> Sierra Leone : 582447
+Algeria <-- India : 940504052
+Algeria --> India : 479791365
+Algeria <-- Singapore : 57364379
+Algeria --> Singapore : 511482426
+Algeria <-- Slovakia : 51090477
+Algeria --> Slovakia : 195
+Algeria <-- Viet Nam : 434023097
+Algeria --> Viet Nam : 567276
+Algeria <-- Slovenia : 123612740
+Algeria --> Slovenia : 998270
+Algeria <-- South Africa : 62051802
+Algeria --> South Africa : 291242
+Algeria <-- Zimbabwe : 3999225
+Algeria <-- Spain : 3566098160
+Algeria --> Spain : 3879164211
+Algeria <-- South Sudan : 7086978
+Algeria --> South Sudan : 19868078
+Algeria <-- Swaziland : 1119578
+Algeria <-- Sweden : 463539828
+Algeria --> Sweden : 3058457
+Algeria <-- Switzerland : 291559432
+Algeria --> Switzerland : 92109430
+Algeria <-- Syria : 23185994
+Algeria --> Syria : 5465765
+Algeria <-- Tajikistan : 53177987
+Algeria --> Tajikistan : 17195
+Algeria <-- Thailand : 172991756
+Algeria --> Thailand : 150427674
+Algeria <-- Togo : 216761
+Algeria --> Togo : 1232070
+Algeria <-- Trinidad and Tobago : 27802
+Algeria --> Trinidad and Tobago : 4198
+Algeria <-- United Arab Emirates : 324338043
+Algeria --> United Arab Emirates : 20028665
+Algeria <-- Tunisia : 430990686
+Algeria --> Tunisia : 603483129
+Algeria <-- Turkey : 1935230607
+Algeria --> Turkey : 1344187409
+Algeria <-- Uganda : 3866222
+Algeria <-- Ukraine : 252967805
+Algeria --> Ukraine : 3283563
+Algeria <-- TFYR of Macedonia : 703476
+Algeria <-- Egypt : 476060577
+Algeria --> Egypt : 286544884
+Algeria <-- United Kingdom : 763486415
+Algeria --> United Kingdom : 1061292522
+Algeria <-- United Rep. of Tanzania : 8498710
+Algeria --> United Rep. of Tanzania : 6303195
+Algeria <-- USA : 2317414036
+Algeria --> USA : 3866104442
+Algeria <-- Burkina Faso : 157181
+Algeria --> Burkina Faso : 21152
+Algeria <-- Uruguay : 57668112
+Algeria --> Uruguay : 5795230
+Algeria <-- Uzbekistan : 439281
+Algeria <-- Venezuela : 21096369
+Algeria --> Venezuela : 83
+Algeria <-- Samoa : 733
+Algeria <-- Yemen : 43436
+Algeria <-- Zambia : 1388
+Algeria <-- Areas, nes : 241301
+Algeria --> Areas, nes : 67561
+Reporter -- Partner
+ -- 
+Reporter -- Partner
+ -- 
+Reporter -- Partner
+ -- 
+Reporter -- Partner
+Antigua and Barbuda <-- World : 490525305
+Antigua and Barbuda --> World : 61043254
+Antigua and Barbuda -- World
+Antigua and Barbuda <-- Afghanistan : 7525
+Antigua and Barbuda <-- Albania : 69
+Antigua and Barbuda <-- Argentina : 195692
+Antigua and Barbuda --> Argentina : 17636
+Antigua and Barbuda -- Argentina
+Antigua and Barbuda <-- Australia : 918298
+Antigua and Barbuda --> Australia : 9817
+Antigua and Barbuda <-- Austria : 199010
+Antigua and Barbuda <-- Bahamas : 661404
+Antigua and Barbuda <-- Bahrain : 51
+Antigua and Barbuda <-- Bangladesh : 33861
+Antigua and Barbuda <-- Barbados : 4719139
+Antigua and Barbuda --> Barbados : 1953388
+Antigua and Barbuda -- Barbados
+Antigua and Barbuda <-- Belgium : 929992
+Antigua and Barbuda --> Bermuda : 28185
+Antigua and Barbuda -- Bermuda
+Antigua and Barbuda <-- Bouvet Island : 102
+Antigua and Barbuda <-- Brazil : 6626463
+Antigua and Barbuda <-- Belize : 102296
+Antigua and Barbuda --> Belize : 21222
+Antigua and Barbuda -- Belize
+Antigua and Barbuda <-- Br. Virgin Isds : 1426298
+Antigua and Barbuda --> Br. Virgin Isds : 293050
+Antigua and Barbuda -- Br. Virgin Isds
+Antigua and Barbuda <-- Bulgaria : 2112
+Antigua and Barbuda <-- Myanmar : 844
+Antigua and Barbuda <-- Cambodia : 20455
+Antigua and Barbuda <-- Canada : 6752610
+Antigua and Barbuda --> Canada : 2398255
+Antigua and Barbuda -- Canada
+Antigua and Barbuda <-- Cayman Isds : 12053
+Antigua and Barbuda --> Cayman Isds : 94903
+Antigua and Barbuda -- Cayman Isds
+Antigua and Barbuda <-- Sri Lanka : 47194
+Antigua and Barbuda <-- Chile : 1457226
+Antigua and Barbuda <-- China : 20332207
+Antigua and Barbuda --> China : 54259
+Antigua and Barbuda <-- Christmas Isds : 8
+Antigua and Barbuda <-- Colombia : 3966102
+Antigua and Barbuda --> Comoros : 444
+Antigua and Barbuda -- Comoros
+Antigua and Barbuda <-- Costa Rica : 978866
+Antigua and Barbuda <-- Croatia : 7426
+Antigua and Barbuda <-- Cuba : 123081
+Antigua and Barbuda --> Cuba : 3915
+Antigua and Barbuda -- Cuba
+Antigua and Barbuda <-- Cyprus : 448166
+Antigua and Barbuda <-- Czechia : 13047
+Antigua and Barbuda <-- Denmark : 823385
+Antigua and Barbuda <-- Dominica : 2123244
+Antigua and Barbuda --> Dominica : 185086
+Antigua and Barbuda -- Dominica
+Antigua and Barbuda <-- Dominican Rep. : 4567995
+Antigua and Barbuda --> Dominican Rep. : 5507
+Antigua and Barbuda -- Dominican Rep.
+Antigua and Barbuda <-- Ecuador : 110989
+Antigua and Barbuda <-- El Salvador : 21002
+Antigua and Barbuda <-- Estonia : 18099
+Antigua and Barbuda <-- Fiji : 36621
+Antigua and Barbuda <-- Finland : 989889
+Antigua and Barbuda <-- France : 3923526
+Antigua and Barbuda --> France : 424000
+Antigua and Barbuda -- France
+Antigua and Barbuda <-- Gabon : 24981
+Antigua and Barbuda <-- Georgia : 23197
+Antigua and Barbuda <-- Germany : 2291233
+Antigua and Barbuda --> Germany : 85089
+Antigua and Barbuda -- Germany
+Antigua and Barbuda <-- Ghana : 796
+Antigua and Barbuda <-- Gibraltar : 100
+Antigua and Barbuda <-- Greece : 82582
+Antigua and Barbuda --> Greece : 6870
+Antigua and Barbuda -- Greece
+Antigua and Barbuda <-- Grenada : 1777706
+Antigua and Barbuda --> Grenada : 21111
+Antigua and Barbuda -- Grenada
+Antigua and Barbuda <-- Guam : 18554
+Antigua and Barbuda <-- Guatemala : 1014715
+Antigua and Barbuda <-- Guyana : 3305200
+Antigua and Barbuda --> Guyana : 20589
+Antigua and Barbuda -- Guyana
+Antigua and Barbuda <-- Haiti : 3720
+Antigua and Barbuda <-- Holy See (Vatican City State) : 81
+Antigua and Barbuda <-- Honduras : 1258390
+Antigua and Barbuda <-- China, Hong Kong SAR : 378263
+Antigua and Barbuda --> China, Hong Kong SAR : 8662
+Antigua and Barbuda <-- Hungary : 761411
+Antigua and Barbuda <-- Iceland : 68
+Antigua and Barbuda <-- Indonesia : 1100691
+Antigua and Barbuda --> Indonesia : 48148
+Antigua and Barbuda <-- Ireland : 124376
+Antigua and Barbuda --> Ireland : 70369
+Antigua and Barbuda -- Ireland
+Antigua and Barbuda <-- Israel : 338536
+Antigua and Barbuda --> Israel : 38862
+Antigua and Barbuda -- Israel
+Antigua and Barbuda <-- Italy : 3806023
+Antigua and Barbuda --> Italy : 805007
+Antigua and Barbuda -- Italy
+Antigua and Barbuda <-- Jamaica : 5843533
+Antigua and Barbuda --> Jamaica : 90812
+Antigua and Barbuda -- Jamaica
+Antigua and Barbuda <-- Japan : 22903919
+Antigua and Barbuda <-- Jordan : 13190
+Antigua and Barbuda <-- Kenya : 5882
+Antigua and Barbuda <-- Dem. People's Rep. of Korea : 3399359
+Antigua and Barbuda <-- Rep. of Korea : 5262926
+Antigua and Barbuda --> Rep. of Korea : 52593
+Antigua and Barbuda <-- Kyrgyzstan : 34
+Antigua and Barbuda <-- Lebanon : 1348
+Antigua and Barbuda <-- Lithuania : 30648
+Antigua and Barbuda <-- Luxembourg : 376092
+Antigua and Barbuda <-- Madagascar : 2341
+Antigua and Barbuda <-- Malaysia : 812849
+Antigua and Barbuda --> Malaysia : 538
+Antigua and Barbuda <-- Malta : 47059
+Antigua and Barbuda --> Malta : 381577
+Antigua and Barbuda -- Malta
+Antigua and Barbuda <-- Mauritius : 24578
+Antigua and Barbuda <-- Mexico : 3666013
+Antigua and Barbuda --> Mexico : 71381
+Antigua and Barbuda -- Mexico
+Antigua and Barbuda <-- Other Asia, nes : 237769
+Antigua and Barbuda --> Other Asia, nes : 100370
+Antigua and Barbuda -- Other Asia, nes
+Antigua and Barbuda <-- Montserrat : 62989
+Antigua and Barbuda --> Montserrat : 411229
+Antigua and Barbuda -- Montserrat
+Antigua and Barbuda <-- Morocco : 15496
+Antigua and Barbuda <-- Namibia : 32769
+Antigua and Barbuda <-- Nepal : 391
+Antigua and Barbuda <-- Netherlands : 3523103
+Antigua and Barbuda --> Netherlands : 123991
+Antigua and Barbuda -- Netherlands
+Antigua and Barbuda <-- Curaçao : 457727
+Antigua and Barbuda --> Curaçao : 10383
+Antigua and Barbuda -- Curaçao
+Antigua and Barbuda <-- New Zealand : 609525
+Antigua and Barbuda <-- Nicaragua : 44492
+Antigua and Barbuda <-- Niger : 55403
+Antigua and Barbuda <-- Nigeria : 118628
+Antigua and Barbuda --> Nigeria : 5919
+Antigua and Barbuda -- Nigeria
+Antigua and Barbuda <-- Norway : 4994
+Antigua and Barbuda --> Norway : 50313
+Antigua and Barbuda -- Norway
+Antigua and Barbuda <-- United States Minor Outlying Islands : 120951
+Antigua and Barbuda <-- Marshall Isds : 1748
+Antigua and Barbuda <-- Pakistan : 33546
+Antigua and Barbuda --> Pakistan : 11111
+Antigua and Barbuda <-- Panama : 1894854
+Antigua and Barbuda --> Panama : 533464
+Antigua and Barbuda -- Panama
+Antigua and Barbuda <-- Peru : 714527
+Antigua and Barbuda <-- Philippines : 88960
+Antigua and Barbuda <-- Poland : 2540958
+Antigua and Barbuda <-- Portugal : 234586
+Antigua and Barbuda <-- Romania : 5029
+Antigua and Barbuda <-- Russian Federation : 71
+Antigua and Barbuda <-- Saint Kitts and Nevis : 828257
+Antigua and Barbuda --> Saint Kitts and Nevis : 537056
+Antigua and Barbuda -- Saint Kitts and Nevis
+Antigua and Barbuda <-- Anguilla : 5195
+Antigua and Barbuda --> Anguilla : 128129
+Antigua and Barbuda -- Anguilla
+Antigua and Barbuda <-- Saint Lucia : 1201925
+Antigua and Barbuda --> Saint Lucia : 589865
+Antigua and Barbuda -- Saint Lucia
+Antigua and Barbuda <-- Saint Vincent and the Grenadines : 4984473
+Antigua and Barbuda --> Saint Vincent and the Grenadines : 610093
+Antigua and Barbuda -- Saint Vincent and the Grenadines
+Antigua and Barbuda <-- Saudi Arabia : 24799
+Antigua and Barbuda --> Seychelles : 11111
+Antigua and Barbuda <-- India : 3239454
+Antigua and Barbuda <-- Singapore : 43759
+Antigua and Barbuda <-- Slovakia : 149
+Antigua and Barbuda <-- Viet Nam : 737594
+Antigua and Barbuda <-- Slovenia : 7053
+Antigua and Barbuda <-- South Africa : 881218
+Antigua and Barbuda <-- Zimbabwe : 225
+Antigua and Barbuda <-- Spain : 5622828
+Antigua and Barbuda --> Spain : 7837886
+Antigua and Barbuda -- Spain
+Antigua and Barbuda <-- Suriname : 485260
+Antigua and Barbuda <-- Swaziland : 20331
+Antigua and Barbuda --> Swaziland : 147001
+Antigua and Barbuda -- Swaziland
+Antigua and Barbuda <-- Sweden : 333203
+Antigua and Barbuda --> Sweden : 25233
+Antigua and Barbuda -- Sweden
+Antigua and Barbuda <-- Switzerland : 3464563
+Antigua and Barbuda --> Switzerland : 5061
+Antigua and Barbuda -- Switzerland
+Antigua and Barbuda <-- Syria : 67412
+Antigua and Barbuda <-- Tajikistan : 60
+Antigua and Barbuda <-- Thailand : 6195411
+Antigua and Barbuda --> Thailand : 34259
+Antigua and Barbuda -- Thailand
+Antigua and Barbuda <-- Togo : 1943
+Antigua and Barbuda <-- Trinidad and Tobago : 16266898
+Antigua and Barbuda --> Trinidad and Tobago : 351148
+Antigua and Barbuda -- Trinidad and Tobago
+Antigua and Barbuda <-- United Arab Emirates : 487073
+Antigua and Barbuda --> United Arab Emirates : 7407
+Antigua and Barbuda <-- Tunisia : 30738
+Antigua and Barbuda <-- Turkey : 607890
+Antigua and Barbuda <-- Uganda : 130
+Antigua and Barbuda <-- Ukraine : 2283
+Antigua and Barbuda <-- Egypt : 50530
+Antigua and Barbuda <-- United Kingdom : 18960249
+Antigua and Barbuda --> United Kingdom : 32040140
+Antigua and Barbuda -- United Kingdom
+Antigua and Barbuda <-- Special Categories : 71158326
+Antigua and Barbuda <-- USA : 217307524
+Antigua and Barbuda --> USA : 9883282
+Antigua and Barbuda -- USA
+Antigua and Barbuda <-- Uruguay : 120870
+Antigua and Barbuda <-- Venezuela : 15909
+Antigua and Barbuda <-- Areas, nes : 5276516
+Antigua and Barbuda --> Areas, nes : 397528
+Antigua and Barbuda -- Areas, nes
+Reporter -- Partner
+Argentina <-- World : 55609517491
+Argentina --> World : 57733350414
+Argentina -- World
+Argentina <-- Afghanistan : 18392
+Argentina --> Afghanistan : 1646376
+Argentina <-- Albania : 109524
+Argentina --> Albania : 5198535
+Argentina <-- Algeria : 49469090
+Argentina --> Algeria : 1162041053
+Argentina <-- American Samoa : 1756
+Argentina <-- Andorra : 246264
+Argentina <-- Angola : 10980451
+Argentina --> Angola : 36826856
+Argentina <-- Antigua and Barbuda : 657
+Argentina --> Antigua and Barbuda : 271190
+Argentina --> Azerbaijan : 1560373
+Argentina <-- Argentina : 31009045
+Argentina -- Argentina
+Argentina <-- Australia : 159675513
+Argentina --> Australia : 515387608
+Argentina <-- Austria : 168029684
+Argentina --> Austria : 12567226
+Argentina <-- Bahamas : 3213620
+Argentina --> Bahamas : 41503320
+Argentina <-- Bahrain : 444587
+Argentina --> Bahrain : 3952534
+Argentina <-- Bangladesh : 13198751
+Argentina --> Bangladesh : 489732449
+Argentina <-- Armenia : 24192
+Argentina --> Armenia : 8100676
+Argentina <-- Barbados : 1454
+Argentina --> Barbados : 762573
+Argentina <-- Belgium : 312473649
+Argentina --> Belgium : 378984703
+Argentina <-- Bolivia (Plurinational State of) : 708709040
+Argentina --> Bolivia (Plurinational State of) : 559654646
+Argentina <-- Bosnia Herzegovina : 777457
+Argentina --> Bosnia Herzegovina : 3690962
+Argentina --> Botswana : 141024
+Argentina <-- Brazil : 13597452017
+Argentina --> Brazil : 9027619164
+Argentina <-- Belize : 128
+Argentina --> Belize : 320723
+Argentina --> Solomon Isds : 75370
+Argentina <-- Brunei Darussalam : 2854
+Argentina --> Brunei Darussalam : 6974886
+Argentina <-- Bulgaria : 15139791
+Argentina --> Bulgaria : 38307689
+Argentina <-- Myanmar : 10868335
+Argentina --> Myanmar : 7515389
+Argentina <-- Burundi : 4954
+Argentina --> Burundi : 356000
+Argentina <-- Belarus : 6977628
+Argentina --> Belarus : 20022235
+Argentina <-- Cambodia : 14769966
+Argentina --> Cambodia : 17125766
+Argentina <-- Cameroon : 306314
+Argentina --> Cameroon : 25146118
+Argentina <-- Canada : 345259569
+Argentina --> Canada : 1147783719
+Argentina <-- Cabo Verde : 1222
+Argentina --> Cabo Verde : 2033870
+Argentina --> Central African Rep. : 695390
+Argentina <-- Sri Lanka : 11125686
+Argentina --> Sri Lanka : 3816940
+Argentina <-- Chad : 71
+Argentina --> Chad : 134554
+Argentina <-- Chile : 689450899
+Argentina --> Chile : 2297396936
+Argentina <-- China : 10467476060
+Argentina --> China : 4425229904
+Argentina <-- Colombia : 201009797
+Argentina --> Colombia : 509773374
+Argentina <-- Comoros : 23406
+Argentina --> Comoros : 2096070
+Argentina <-- Congo : 23553
+Argentina --> Congo : 12751465
+Argentina <-- Dem. Rep. of the Congo : 11919
+Argentina --> Dem. Rep. of the Congo : 11080630
+Argentina <-- Costa Rica : 14645170
+Argentina --> Costa Rica : 48293514
+Argentina <-- Croatia : 3794311
+Argentina --> Croatia : 77690480
+Argentina <-- Cuba : 14164310
+Argentina --> Cuba : 324170797
+Argentina <-- Cyprus : 187856
+Argentina --> Cyprus : 30807298
+Argentina <-- Czechia : 159519409
+Argentina --> Czechia : 88444336
+Argentina --> Benin : 2880430
+Argentina <-- Denmark : 168922789
+Argentina --> Denmark : 235881212
+Argentina <-- Dominica : 4492
+Argentina --> Dominica : 198412
+Argentina <-- Dominican Rep. : 3370235
+Argentina --> Dominican Rep. : 143748794
+Argentina <-- Ecuador : 274849021
+Argentina --> Ecuador : 241349621
+Argentina <-- El Salvador : 575960
+Argentina --> El Salvador : 12785923
+Argentina <-- Equatorial Guinea : 13088759
+Argentina --> Equatorial Guinea : 2468886
+Argentina <-- Ethiopia : 61509
+Argentina --> Ethiopia : 1390458
+Argentina --> Eritrea : 68478
+Argentina <-- Estonia : 29391787
+Argentina --> Estonia : 4000237
+Argentina <-- Fiji : 24748
+Argentina --> Fiji : 353225
+Argentina <-- Finland : 140797058
+Argentina --> Finland : 143476311
+Argentina <-- France : 1447324414
+Argentina --> France : 364023504
+Argentina <-- Djibouti : 118650
+Argentina --> Djibouti : 427093
+Argentina <-- Gabon : 1010402
+Argentina --> Gabon : 5539164
+Argentina <-- Georgia : 372688
+Argentina --> Georgia : 2113614
+Argentina <-- Gambia : 57
+Argentina --> Gambia : 2738459
+Argentina --> State of Palestine : 2466117
+Argentina <-- Germany : 3053218554
+Argentina --> Germany : 1272248553
+Argentina <-- Ghana : 466
+Argentina --> Ghana : 42796393
+Argentina <-- Gibraltar : 87
+Argentina --> Gibraltar : 149939
+Argentina <-- Greece : 7224898
+Argentina --> Greece : 123780903
+Argentina <-- Grenada : 311235
+Argentina --> Grenada : 305039
+Argentina <-- Guatemala : 3015912
+Argentina --> Guatemala : 72114508
+Argentina <-- Guinea : 36628
+Argentina --> Guinea : 689661
+Argentina <-- Guyana : 135840
+Argentina --> Guyana : 2661511
+Argentina <-- Haiti : 81667
+Argentina --> Haiti : 6178205
+Argentina <-- Holy See (Vatican City State) : 154
+Argentina --> Holy See (Vatican City State) : 1400
+Argentina <-- Honduras : 12461256
+Argentina --> Honduras : 20774770
+Argentina <-- China, Hong Kong SAR : 14955118
+Argentina --> China, Hong Kong SAR : 235657356
+Argentina <-- Hungary : 223263850
+Argentina --> Hungary : 9545120
+Argentina <-- Iceland : 1150691
+Argentina --> Iceland : 1980605
+Argentina <-- Indonesia : 275976901
+Argentina --> Indonesia : 1243437843
+Argentina <-- Iran : 3936404
+Argentina --> Iran : 426476928
+Argentina <-- Iraq : 454
+Argentina --> Iraq : 98103619
+Argentina <-- Ireland : 192062223
+Argentina --> Ireland : 231487861
+Argentina <-- Israel : 117786723
+Argentina --> Israel : 196470402
+Argentina <-- Italy : 1435503132
+Argentina --> Italy : 1001753740
+Argentina <-- Côte d'Ivoire : 2302272
+Argentina --> Côte d'Ivoire : 21061237
+Argentina <-- Jamaica : 21610
+Argentina --> Jamaica : 4743199
+Argentina <-- Japan : 953418910
+Argentina --> Japan : 662586368
+Argentina <-- Kazakhstan : 2917308
+Argentina --> Kazakhstan : 7561114
+Argentina <-- Jordan : 1308785
+Argentina --> Jordan : 222438262
+Argentina <-- Kenya : 156504
+Argentina --> Kenya : 23476830
+Argentina <-- Rep. of Korea : 885606006
+Argentina --> Rep. of Korea : 860259578
+Argentina <-- Kuwait : 14817700
+Argentina --> Kuwait : 21976841
+Argentina <-- Kyrgyzstan : 1947
+Argentina --> Kyrgyzstan : 117466
+Argentina <-- Lao People's Dem. Rep. : 107016
+Argentina --> Lao People's Dem. Rep. : 142690
+Argentina <-- Lebanon : 4476292
+Argentina --> Lebanon : 98468672
+Argentina --> Lesotho : 1516481
+Argentina <-- Latvia : 3933895
+Argentina --> Latvia : 78792657
+Argentina --> Liberia : 1218961
+Argentina <-- Libya : 37
+Argentina --> Libya : 67977962
+Argentina <-- Lithuania : 9435932
+Argentina --> Lithuania : 44749812
+Argentina <-- Luxembourg : 7674688
+Argentina --> Luxembourg : 740960
+Argentina <-- China, Macao SAR : 531389
+Argentina --> China, Macao SAR : 7929
+Argentina <-- Madagascar : 1103750
+Argentina --> Madagascar : 13635368
+Argentina <-- Malawi : 680180
+Argentina --> Malawi : 5162000
+Argentina <-- Malaysia : 291549857
+Argentina --> Malaysia : 999823053
+Argentina --> Maldives : 574035
+Argentina <-- Mali : 3203
+Argentina --> Mali : 876139
+Argentina <-- Malta : 2597713
+Argentina --> Malta : 1094276
+Argentina <-- Mauritania : 80
+Argentina --> Mauritania : 6069740
+Argentina <-- Mauritius : 275516
+Argentina --> Mauritius : 49603636
+Argentina <-- Mexico : 1784853872
+Argentina --> Mexico : 779451219
+Argentina <-- Other Asia, nes : 411389570
+Argentina --> Other Asia, nes : 81294930
+Argentina <-- Mongolia : 3213
+Argentina --> Mongolia : 720398
+Argentina <-- Rep. of Moldova : 41212
+Argentina --> Rep. of Moldova : 3603661
+Argentina <-- Montenegro : 165
+Argentina --> Montenegro : 1222266
+Argentina <-- Morocco : 107400892
+Argentina --> Morocco : 368735990
+Argentina <-- Mozambique : 11058352
+Argentina --> Mozambique : 58536037
+Argentina <-- Oman : 45597199
+Argentina --> Oman : 42975490
+Argentina <-- Namibia : 58334
+Argentina --> Namibia : 6824875
+Argentina <-- Nauru : 104
+Argentina <-- Nepal : 243219
+Argentina --> Nepal : 6591038
+Argentina <-- Netherlands : 429141160
+Argentina --> Netherlands : 1170977012
+Argentina <-- Curaçao : 3602208
+Argentina --> Curaçao : 5070883
+Argentina --> Aruba : 1626787
+Argentina --> Vanuatu : 14366
+Argentina <-- New Zealand : 21783701
+Argentina --> New Zealand : 97056412
+Argentina <-- Nicaragua : 417148
+Argentina --> Nicaragua : 31357232
+Argentina <-- Niger : 107
+Argentina --> Niger : 4860135
+Argentina <-- Nigeria : 405324038
+Argentina --> Nigeria : 38251685
+Argentina <-- Norway : 132809005
+Argentina --> Norway : 13748038
+Argentina <-- N. Mariana Isds : 702
+Argentina <-- Palau : 48
+Argentina <-- Pakistan : 55201884
+Argentina --> Pakistan : 245857225
+Argentina <-- Panama : 1956395
+Argentina --> Panama : 67538926
+Argentina <-- Papua New Guinea : 2098
+Argentina --> Papua New Guinea : 25356
+Argentina <-- Paraguay : 711339982
+Argentina --> Paraguay : 979682664
+Argentina <-- Peru : 124886380
+Argentina --> Peru : 819950877
+Argentina <-- Philippines : 102429569
+Argentina --> Philippines : 357769720
+Argentina <-- Poland : 146998133
+Argentina --> Poland : 633701062
+Argentina <-- Portugal : 75981253
+Argentina --> Portugal : 116028919
+Argentina <-- Qatar : 276158046
+Argentina --> Qatar : 8170733
+Argentina <-- Romania : 80514553
+Argentina --> Romania : 60099147
+Argentina <-- Russian Federation : 393753342
+Argentina --> Russian Federation : 490391910
+Argentina <-- Rwanda : 2654
+Argentina --> Rwanda : 1480842
+Argentina --> Saint Kitts and Nevis : 70606
+Argentina <-- Saint Lucia : 1071
+Argentina --> Saint Lucia : 719695
+Argentina --> Saint Vincent and the Grenadines : 130324
+Argentina <-- San Marino : 265788
+Argentina <-- Saudi Arabia : 245946160
+Argentina --> Saudi Arabia : 664456990
+Argentina <-- Senegal : 90452
+Argentina --> Senegal : 58808759
+Argentina <-- Serbia : 4363780
+Argentina --> Serbia : 15952030
+Argentina <-- Seychelles : 42910
+Argentina --> Seychelles : 402807
+Argentina <-- Sierra Leone : 215909
+Argentina --> Sierra Leone : 1071357
+Argentina <-- India : 700219824
+Argentina --> India : 2208521323
+Argentina <-- Singapore : 157459584
+Argentina --> Singapore : 51981357
+Argentina <-- Slovakia : 75849249
+Argentina --> Slovakia : 23671315
+Argentina <-- Viet Nam : 350295807
+Argentina --> Viet Nam : 2546072839
+Argentina <-- Slovenia : 20100451
+Argentina --> Slovenia : 3130742
+Argentina <-- Somalia : 21
+Argentina --> Somalia : 578938
+Argentina <-- South Africa : 183007128
+Argentina --> South Africa : 810686149
+Argentina <-- Zimbabwe : 631264
+Argentina --> Zimbabwe : 106939
+Argentina <-- Spain : 920985523
+Argentina --> Spain : 1627938499
+Argentina --> South Sudan : 29577
+Argentina <-- Sudan : 252629
+Argentina --> Sudan : 20126618
+Argentina <-- Suriname : 1604
+Argentina --> Suriname : 3364235
+Argentina <-- Swaziland : 788
+Argentina --> Swaziland : 39950
+Argentina <-- Sweden : 289028639
+Argentina --> Sweden : 68330357
+Argentina <-- Switzerland : 517108838
+Argentina --> Switzerland : 1141078659
+Argentina <-- Syria : 29718
+Argentina --> Syria : 65023158
+Argentina <-- Tajikistan : 98
+Argentina --> Tajikistan : 34838
+Argentina <-- Thailand : 1132210415
+Argentina --> Thailand : 571813188
+Argentina --> Togo : 220303
+Argentina <-- Trinidad and Tobago : 291385828
+Argentina --> Trinidad and Tobago : 11573875
+Argentina <-- United Arab Emirates : 70893790
+Argentina --> United Arab Emirates : 240036393
+Argentina <-- Tunisia : 7313274
+Argentina --> Tunisia : 125302258
+Argentina <-- Turkey : 173234683
+Argentina --> Turkey : 486360007
+Argentina <-- Turkmenistan : 364
+Argentina --> Turkmenistan : 491997
+Argentina <-- Uganda : 7477
+Argentina --> Uganda : 9915141
+Argentina <-- Ukraine : 8761983
+Argentina --> Ukraine : 51863892
+Argentina <-- TFYR of Macedonia : 2247395
+Argentina --> TFYR of Macedonia : 5559202
+Argentina <-- Egypt : 8198630
+Argentina --> Egypt : 1791720207
+Argentina <-- United Kingdom : 471381813
+Argentina --> United Kingdom : 697206856
+Argentina <-- United Rep. of Tanzania : 1037510
+Argentina --> United Rep. of Tanzania : 13666442
+Argentina <-- Free Zones : 105685632
+Argentina --> Free Zones : 46171834
+Argentina <-- USA : 6984637104
+Argentina --> USA : 4482775224
+Argentina <-- Burkina Faso : 42
+Argentina --> Burkina Faso : 932354
+Argentina <-- Uruguay : 465512569
+Argentina --> Uruguay : 1130262043
+Argentina <-- Uzbekistan : 3162511
+Argentina --> Uzbekistan : 3996697
+Argentina <-- Venezuela : 67948720
+Argentina --> Venezuela : 706897968
+Argentina --> Yemen : 167766661
+Argentina <-- Zambia : 68
+Argentina --> Zambia : 478683
+Argentina <-- Areas, nes : 412498205
+Argentina --> Areas, nes : 687511013
+Reporter -- Partner
+Armenia <-- World : 3218457706
+Armenia --> World : 1807789510
+Armenia -- World
+Armenia -- World
+Armenia <-- Afghanistan : 81687
+Armenia <-- Albania : 223990
+Armenia --> Albania : 3137
+Armenia --> Algeria : 107565
+Armenia <-- American Samoa : 2087
+Armenia <-- Andorra : 11065
+Armenia <-- Angola : 28718
+Armenia <-- Azerbaijan : 2188925
+Armenia --> Azerbaijan : 2445566
+Armenia <-- Argentina : 9092969
+Armenia --> Argentina : 2810
+Armenia <-- Australia : 2570651
+Armenia --> Australia : 210442
+Armenia -- Australia
+Armenia <-- Austria : 18007667
+Armenia --> Austria : 1303432
+Armenia -- Austria
+Armenia -- Austria
+Armenia <-- Bahamas : 2468
+Armenia <-- Bangladesh : 11841981
+Armenia <-- Barbados : 14387
+Armenia <-- Belgium : 56966461
+Armenia --> Belgium : 41346284
+Armenia -- Belgium
+Armenia -- Belgium
+Armenia <-- Bolivia (Plurinational State of) : 9422
+Armenia <-- Bosnia Herzegovina : 212434
+Armenia <-- Botswana : 1681840
+Armenia <-- Brazil : 48856295
+Armenia --> Brazil : 8792
+Armenia --> Belize : 1755903
+Armenia --> Br. Virgin Isds : 888593
+Armenia <-- Bulgaria : 31968592
+Armenia --> Bulgaria : 163439937
+Armenia -- Bulgaria
+Armenia -- Bulgaria
+Armenia <-- Myanmar : 167180
+Armenia <-- Burundi : 799
+Armenia <-- Belarus : 23203358
+Armenia --> Belarus : 13112170
+Armenia <-- Cambodia : 1870356
+Armenia <-- Cameroon : 33491
+Armenia --> Cameroon : 16200
+Armenia <-- Canada : 11887009
+Armenia --> Canada : 133121392
+Armenia -- Canada
+Armenia <-- Sri Lanka : 1820033
+Armenia <-- Chile : 1014366
+Armenia <-- China : 363469585
+Armenia --> China : 99658051
+Armenia -- China
+Armenia <-- Colombia : 295412
+Armenia <-- Comoros : 4231
+Armenia --> Congo : 89543
+Armenia <-- Dem. Rep. of the Congo : 494
+Armenia <-- Costa Rica : 590802
+Armenia <-- Croatia : 1399116
+Armenia --> Croatia : 167320
+Armenia <-- Cuba : 87073
+Armenia <-- Cyprus : 2520328
+Armenia --> Cyprus : 30112
+Armenia -- Cyprus
+Armenia <-- Czechia : 15097323
+Armenia --> Czechia : 2270843
+Armenia -- Czechia
+Armenia -- Czechia
+Armenia <-- Benin : 4672
+Armenia --> Benin : 45
+Armenia <-- Denmark : 5158026
+Armenia --> Denmark : 312104
+Armenia -- Denmark
+Armenia <-- Dominica : 379
+Armenia <-- Dominican Rep. : 128548
+Armenia <-- Ecuador : 8455565
+Armenia <-- El Salvador : 155484
+Armenia <-- Ethiopia : 389257
+Armenia <-- Estonia : 9952151
+Armenia --> Estonia : 618838
+Armenia -- Estonia
+Armenia <-- Faeroe Isds : 82174
+Armenia <-- Fiji : 2553
+Armenia <-- Finland : 18879970
+Armenia --> Finland : 146625
+Armenia -- Finland
+Armenia <-- France : 52519516
+Armenia --> France : 4118084
+Armenia -- France
+Armenia -- France
+Armenia <-- Gabon : 1645
+Armenia --> Gabon : 202222
+Armenia <-- Georgia : 95020572
+Armenia --> Georgia : 141168802
+Armenia -- Georgia
+Armenia --> Gambia : 14401
+Armenia <-- State of Palestine : 123440
+Armenia --> State of Palestine : 870
+Armenia <-- Germany : 160432881
+Armenia --> Germany : 135133099
+Armenia -- Germany
+Armenia -- Germany
+Armenia <-- Ghana : 1007940
+Armenia <-- Gibraltar : 66
+Armenia <-- Greece : 21302182
+Armenia --> Greece : 491482
+Armenia -- Greece
+Armenia <-- Greenland : 1881
+Armenia <-- Grenada : 10467
+Armenia <-- Guatemala : 14571
+Armenia <-- Guinea : 1027
+Armenia <-- Guyana : 636
+Armenia <-- Haiti : 3262
+Armenia <-- Holy See (Vatican City State) : 2067
+Armenia <-- Honduras : 181312
+Armenia <-- China, Hong Kong SAR : 2797892
+Armenia --> China, Hong Kong SAR : 57603784
+Armenia -- China, Hong Kong SAR
+Armenia <-- Hungary : 10777598
+Armenia --> Hungary : 775773
+Armenia -- Hungary
+Armenia <-- Iceland : 187651
+Armenia <-- Indonesia : 23859036
+Armenia -- Indonesia
+Armenia <-- Iran : 164894391
+Armenia --> Iran : 69642715
+Armenia -- Iran
+Armenia <-- Iraq : 103373
+Armenia --> Iraq : 140529224
+Armenia -- Iraq
+Armenia <-- Ireland : 9152523
+Armenia --> Ireland : 18777
+Armenia -- Ireland
+Armenia <-- Israel : 4665350
+Armenia --> Israel : 3766356
+Armenia -- Israel
+Armenia <-- Italy : 127396274
+Armenia --> Italy : 31512313
+Armenia -- Italy
+Armenia -- Italy
+Armenia <-- Côte d'Ivoire : 1419316
+Armenia --> Côte d'Ivoire : 4
+Armenia <-- Jamaica : 3048
+Armenia <-- Japan : 32383724
+Armenia --> Japan : 379045
+Armenia <-- Kazakhstan : 676031
+Armenia --> Kazakhstan : 5267417
+Armenia <-- Jordan : 174241
+Armenia --> Jordan : 3177
+Armenia <-- Kenya : 6713
+Armenia --> Kenya : 18469
+Armenia <-- Dem. People's Rep. of Korea : 49749
+Armenia <-- Rep. of Korea : 16714627
+Armenia --> Rep. of Korea : 833611
+Armenia -- Rep. of Korea
+Armenia -- Rep. of Korea
+Armenia <-- Kuwait : 8546
+Armenia --> Kuwait : 471341
+Armenia <-- Kyrgyzstan : 81455
+Armenia --> Kyrgyzstan : 1132146
+Armenia <-- Lao People's Dem. Rep. : 8453
+Armenia <-- Lebanon : 1042031
+Armenia --> Lebanon : 157208
+Armenia -- Lebanon
+Armenia <-- Lesotho : 969
+Armenia <-- Latvia : 1559578
+Armenia --> Latvia : 1740761
+Armenia -- Latvia
+Armenia --> Libya : 830837
+Armenia <-- Lithuania : 4796998
+Armenia --> Lithuania : 2511755
+Armenia -- Lithuania
+Armenia <-- Luxembourg : 773366
+Armenia --> Luxembourg : 1083002
+Armenia <-- China, Macao SAR : 3697
+Armenia <-- Madagascar : 86860
+Armenia <-- Malawi : 4201170
+Armenia --> Malawi : 9300
+Armenia <-- Malaysia : 13064819
+Armenia --> Malaysia : 110952
+Armenia -- Malaysia
+Armenia --> Maldives : 6205
+Armenia <-- Mali : 8314
+Armenia <-- Malta : 217708
+Armenia --> Malta : 32031
+Armenia <-- Mauritania : 2750
+Armenia <-- Mauritius : 155033
+Armenia <-- Mexico : 7627965
+Armenia --> Mexico : 101991
+Armenia <-- Other Asia, nes : 10256525
+Armenia --> Other Asia, nes : 65027
+Armenia --> Mongolia : 232
+Armenia <-- Rep. of Moldova : 1018443
+Armenia --> Rep. of Moldova : 380103
+Armenia <-- Montenegro : 11729
+Armenia <-- Morocco : 1856171
+Armenia <-- Oman : 207005
+Armenia --> Oman : 104478
+Armenia <-- Namibia : 139334
+Armenia --> Namibia : 72265
+Armenia -- Namibia
+Armenia <-- Nauru : 633
+Armenia <-- Nepal : 24529
+Armenia --> Nepal : 194
+Armenia -- Nepal
+Armenia <-- Netherlands : 27996831
+Armenia --> Netherlands : 55509994
+Armenia -- Netherlands
+Armenia <-- New Zealand : 12832855
+Armenia --> New Zealand : 14908
+Armenia <-- Nicaragua : 10166
+Armenia --> Nicaragua : 5949
+Armenia <-- Niger : 1607
+Armenia <-- Nigeria : 635270
+Armenia --> Nigeria : 3
+Armenia <-- Niue : 103
+Armenia <-- Norway : 1766800
+Armenia --> Norway : 900
+Armenia <-- Pakistan : 3563098
+Armenia --> Pakistan : 35681
+Armenia <-- Panama : 72235
+Armenia <-- Paraguay : 216513
+Armenia <-- Peru : 248323
+Armenia <-- Philippines : 1427545
+Armenia --> Philippines : 48945
+Armenia <-- Poland : 36651341
+Armenia --> Poland : 17309621
+Armenia -- Poland
+Armenia -- Poland
+Armenia <-- Portugal : 5873540
+Armenia --> Portugal : 1131
+Armenia -- Portugal
+Armenia <-- Qatar : 414012
+Armenia --> Qatar : 8655
+Armenia <-- Romania : 12509647
+Armenia --> Romania : 22622885
+Armenia <-- Russian Federation : 990575985
+Armenia --> Russian Federation : 372986732
+Armenia -- Russian Federation
+Armenia -- Russian Federation
+Armenia <-- Rwanda : 225
+Armenia --> Rwanda : 31283
+Armenia <-- Saint Barthélemy : 3747
+Armenia <-- Saint Kitts and Nevis : 1304
+Armenia <-- Anguilla : 129208
+Armenia <-- San Marino : 669
+Armenia <-- Saudi Arabia : 7861274
+Armenia --> Saudi Arabia : 2067292
+Armenia -- Saudi Arabia
+Armenia <-- Senegal : 328
+Armenia <-- Serbia : 2222916
+Armenia --> Serbia : 1065
+Armenia <-- Sierra Leone : 693247
+Armenia <-- India : 69395029
+Armenia --> India : 1436652
+Armenia -- India
+Armenia -- India
+Armenia <-- Singapore : 1126677
+Armenia --> Singapore : 1496619
+Armenia -- Singapore
+Armenia -- Singapore
+Armenia <-- Slovakia : 4422130
+Armenia --> Slovakia : 213666
+Armenia -- Slovakia
+Armenia <-- Viet Nam : 24349244
+Armenia --> Viet Nam : 22388
+Armenia <-- Slovenia : 6921069
+Armenia --> Slovenia : 34256
+Armenia -- Slovenia
+Armenia <-- Somalia : 1000
+Armenia <-- South Africa : 13004205
+Armenia --> South Africa : 40143
+Armenia <-- Zimbabwe : 6813831
+Armenia <-- Spain : 25822839
+Armenia --> Spain : 132571
+Armenia <-- Sudan : 34752
+Armenia --> Sudan : 158100
+Armenia <-- Suriname : 313
+Armenia <-- Swaziland : 2412
+Armenia <-- Sweden : 13979926
+Armenia --> Sweden : 147142
+Armenia -- Sweden
+Armenia <-- Switzerland : 37554827
+Armenia --> Switzerland : 95043378
+Armenia -- Switzerland
+Armenia -- Switzerland
+Armenia <-- Syria : 605500
+Armenia --> Syria : 27639752
+Armenia --> Tajikistan : 788748
+Armenia <-- Thailand : 15208950
+Armenia --> Thailand : 2637373
+Armenia -- Thailand
+Armenia -- Thailand
+Armenia <-- Togo : 934353
+Armenia <-- Trinidad and Tobago : 25964
+Armenia --> Trinidad and Tobago : 10
+Armenia <-- United Arab Emirates : 57798768
+Armenia --> United Arab Emirates : 68786973
+Armenia -- United Arab Emirates
+Armenia <-- Tunisia : 873532
+Armenia <-- Turkey : 168950320
+Armenia --> Turkey : 525759
+Armenia -- Turkey
+Armenia <-- Turkmenistan : 4672109
+Armenia --> Turkmenistan : 4796481
+Armenia <-- Uganda : 39566
+Armenia --> Uganda : 248
+Armenia <-- Ukraine : 98887744
+Armenia --> Ukraine : 8150890
+Armenia -- Ukraine
+Armenia <-- TFYR of Macedonia : 335360
+Armenia --> TFYR of Macedonia : 4
+Armenia <-- Egypt : 7666227
+Armenia --> Egypt : 12839
+Armenia <-- United Kingdom : 28011100
+Armenia --> United Kingdom : 1576614
+Armenia -- United Kingdom
+Armenia -- United Kingdom
+Armenia <-- United Rep. of Tanzania : 169458
+Armenia --> United Rep. of Tanzania : 3250
+Armenia <-- USA : 79103259
+Armenia --> USA : 39191226
+Armenia -- USA
+Armenia -- USA
+Armenia <-- Burkina Faso : 33
+Armenia <-- Uruguay : 2366
+Armenia <-- Uzbekistan : 1588533
+Armenia --> Uzbekistan : 1809602
+Armenia <-- Yemen : 126
+Armenia --> Yemen : 141525
+Armenia <-- Areas, nes : 20976943
+Armenia --> Areas, nes : 21013107
+Armenia -- Areas, nes
+Armenia -- Areas, nes
+Reporter -- Partner
+Aruba <-- World : 1116855390
+Aruba --> World : 95029332
+Aruba --> Belgium : 148140
+Aruba <-- Brazil : 18944574
+Aruba --> Canada : 162
+Aruba <-- China : 27332070
+Aruba --> China : 913133
+Aruba <-- Colombia : 27119717
+Aruba --> Colombia : 23030710
+Aruba <-- China, Hong Kong SAR : 4360094
+Aruba <-- Japan : 10160318
+Aruba <-- Rep. of Korea : 18177248
+Aruba <-- Mexico : 11396188
+Aruba --> Mexico : 1205035
+Aruba --> Other Asia, nes : 3455286
+Aruba <-- Netherlands : 142892428
+Aruba --> Netherlands : 15812393
+Aruba <-- Curaçao : 15393804
+Aruba --> Curaçao : 8250928
+Aruba <-- Panama : 35338447
+Aruba --> Panama : 3556482
+Aruba <-- Paraguay : 6737643
+Aruba --> Paraguay : 8500
+Aruba --> Suriname : 1143403
+Aruba <-- United Kingdom : 26373405
+Aruba <-- USA : 615096803
+Aruba --> USA : 18515125
+Aruba <-- Venezuela : 22581334
+Aruba --> Venezuela : 13064264
+Aruba <-- Areas, nes : 134951315
+Aruba --> Areas, nes : 5925770

@@ -3,6 +3,7 @@
 import urllib
 import requests
 import json
+import csv
 
 # Add url data here
 url = "http://comtrade.un.org/api/refs/da/view?type=C&freq=A&px=HS&ps=2016&p=all&r=all&max=49999&fmt=json"
@@ -17,19 +18,67 @@ Japan
 Bangladesh
 """
 
-url3 = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2016&r=699%2C156%2C586%2C392%2C50&p=all&rg=all&cc=TOTAL&fmt=csv"
+url3 = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2016&r=699%2C156%2C586%2C392&p=all&rg=all&cc=TOTAL&fmt=csv"
 
+temp = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2016&r=699%2C156%2C586%2C392%2C50&p=all&rg=all&cc=TOTAL&fmt=csv"
 
 testurl = "http://comtrade.un.org/api/refs/da/view?type=C&freq=M&ps=201607&px=HS"
 
-print("Calling API...")
+# print("Calling API...")
 
 reporteriddata = requests.get("https://comtrade.un.org/data/cache/reporterAreas.json").json()
 
+idlist = []
+
+for id in reporteriddata['results']:
+    idlist.append(id['id'])
+
+idlist.remove(idlist[0])
+
+ctr=0
+for id in reporteriddata['results']:
+    if(id['id'] != '807'):
+        ctr+=1
+    else:
+        break
+
+newlist = idlist[ctr:]
+
+
+
+for id in newlist:
+    print("id : " + str(id))
+    specificurl = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2016&p=all&rg=all&cc=TOTAL&fmt=csv" + "&r=" + str(id)
+    print(specificurl)
+    response = requests.get(specificurl)
+    decoded_content = response.content.decode('utf-8')
+    cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+    my_list = list(cr)
+    for row in my_list:
+        if(row[7] == 'Import'):
+            print(row[9] + ' <-- ' + row[12] + ' : ' + row[-4])
+        elif(row[7] == 'Export'):
+            print(row[9] + ' --> ' + row[12] + ' : ' + row[-4])
+        else:
+            print(row[9] + ' -- ' + row[12])
+
 
 # response = requests.get(url3)
+# decoded_content = response.content.decode('utf-8')
+# cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+# my_list = list(cr)
+# for row in my_list:
+#     if(row[7] == 'Import'):
+#         print(row[9] + ' <-- ' + row[12] + ' : ' + row[-4])
+#     elif(row[7] == 'Export'):
+#         print(row[9] + ' --> ' + row[12] + ' : ' + row[-4])
+#     else:
+#         print(row[9] + ' -- ' + row[12])
 
-# for item in data:
+
+# print(response.content)
+
+# for item in response.content:
 #     print(item)
 
 # print(response.content)
