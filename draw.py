@@ -14,7 +14,7 @@ for i in range(11):
 
 gcm=[]
 
-with open('gcmmodified.csv') as csvDataFile:
+with open('gcmasiamodified.csv') as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for row in csvReader:
         gcm.append(row)
