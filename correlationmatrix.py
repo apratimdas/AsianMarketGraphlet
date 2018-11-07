@@ -3,7 +3,7 @@ from numpy import corrcoef
 
 gdv=[]
 
-with open("test.out", "r") as ins:
+with open("wtn-noasia.out", "r") as ins:
     for line in ins:
         temp = line[:-1].split(" ")
         numbers = [int(x) for x in temp]

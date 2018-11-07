@@ -2,6 +2,7 @@
 from graphics import *
 from random import randint
 import csv
+import sys
 import colorsys
 
 grid = []
@@ -14,7 +15,7 @@ for i in range(11):
 
 gcm=[]
 
-with open('gcmasiamodified.csv') as csvDataFile:
+with open(sys.argv[1]) as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for row in csvReader:
         gcm.append(row)

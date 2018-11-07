@@ -40,7 +40,7 @@ with open("test-combined2016.txt", "r") as ins:
         vertex_b = line[idx+4:line.find(':')-1]
         # vertex_a = re.findall(".*[><-]", line)[0][:-4]
         # vertex_b = re.findall('[><-].* : ',line)[0][4:-3]
-        if vertex_a not in anamelist and vertex_b not in anamelist:
+        if vertex_a in anamelist or vertex_b in anamelist:
             continue
         # print(str(vertex_a) + ' -- ' + str(vertex_b))
         temp = []
@@ -113,9 +113,17 @@ for edge in todel:
     finaldict.pop(edge)
 
 
+uniqueedges = []
 
 
 # print(anamelist)
+for edge in finaldict:
+    if edge not in uniqueedges:
+        edgeswap = []
+        edgeswap.append(edge[1])
+        edgeswap.append(edge[0])
+        if edgeswap not in uniqueedges:
+            uniqueedges.append(edge)
 
-# for edge in finaldict:
-#     print(str(edge[0]) + " " + str(edge[1]))    
+for edge in uniqueedges:
+    print(str(edge[0]) + " " + str(edge[1]))
