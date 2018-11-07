@@ -63,7 +63,7 @@ while idlistitr < len(idlist):
     else:
         idx4 = idx1
 
-    specificurl = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=1990&p=all&rg=all&cc=TOTAL&fmt=csv" + "&r=" + str(idx1) + "%2C" + str(idx2) + "%2C" + str(idx3) + "%2C" + str(idx4)
+    specificurl = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=1995&p=all&rg=all&cc=TOTAL&fmt=csv" + "&r=" + str(idx1) + "%2C" + str(idx2) + "%2C" + str(idx3) + "%2C" + str(idx4)
     print(specificurl)
     response = requests.get(specificurl)
     decoded_content = response.content.decode('utf-8')

@@ -96,6 +96,7 @@ for edge in finaldict:
 
 todel = []
 
+
 for edge in finaldict:
     if edge[0] == edge[1]:
         todel.append(edge)
@@ -104,5 +105,5 @@ for edge in todel:
     finaldict.pop(edge)
 
 
-for edge in finaldict:
+for edge in uniqueedges:
     print(str(edge[0]) + " " + str(edge[1]))    
