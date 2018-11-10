@@ -6,14 +6,30 @@ ctr = 1
 pricelist = []
 netprice = 0
 
+filename = "test-combined1995.txt"
+
 edgelist = []
 namelist = []
 namedict = {}
 dctr = 1
 
-total_pre_calc = 35104419583987
-threshold = int(total_pre_calc*0.9)
+total_pre_calc = 0
 
+with open(filename, "r", encoding='utf-16') as ins:
+    namelisttemp = []
+    for line in ins:
+        print(line)
+        valctr = 0
+        value = re.findall(': [0-9]*', line)
+        for val in value:
+            print(val)
+            valctr = int(val[2:])
+            print(valctr)
+            netprice += valctr
+
+print(netprice)
+input("enter")
+threshold = int(total_pre_calc*0.9)
 
 anamelist = []
 with open("asianlist.txt", "r") as ins:
@@ -21,7 +37,7 @@ with open("asianlist.txt", "r") as ins:
         anamelist.append(line[:-1])
 
 
-with open("test-combined2016.txt", "r") as ins:
+with open(filename, "r") as ins:
     namelist = []
     for line in ins:
         valctr = 0
@@ -40,8 +56,8 @@ with open("test-combined2016.txt", "r") as ins:
         vertex_b = line[idx+4:line.find(':')-1]
         # vertex_a = re.findall(".*[><-]", line)[0][:-4]
         # vertex_b = re.findall('[><-].* : ',line)[0][4:-3]
-        if vertex_a in anamelist or vertex_b in anamelist:
-            continue
+        # if vertex_a in anamelist or vertex_b in anamelist:
+        #     continue
         # print(str(vertex_a) + ' -- ' + str(vertex_b))
         temp = []
         i1 = 0
