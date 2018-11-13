@@ -57,13 +57,10 @@ while idlistitr < len(idlist):
     if(idlistitr+2 < len(idlist)):
         idx3 = idlist[idlistitr+2]
     else:
-        idx3 = id
-    if(idlistitr+3 < len(idlist)):
-        idx4 = idlist[idlistitr+3]
-    else:
-        idx4 = idx1
+        idx3 = idx1
+        
 
-    specificurl = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=1980&p=all&rg=all&cc=TOTAL&fmt=csv" + "&r=" + str(idx1) + "%2C" + str(idx2) + "%2C" + str(idx3) + "%2C" + str(idx4)
+    specificurl = "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=HS&ps=2017&p=all&rg=all&cc=TOTAL&fmt=csv" + "&r=" + str(idx1) + "%2C" + str(idx2) + "%2C" + str(idx3)
     print(specificurl)
     response = requests.get(specificurl)
     decoded_content = response.content.decode('utf-8')
@@ -76,7 +73,7 @@ while idlistitr < len(idlist):
             print(row[9] + ' --> ' + row[12] + ' : ' + row[-4])
         # else:
             # print(row[9] + ' -- ' + row[12])
-    idlistitr += 4
+    idlistitr += 3
 
 
 

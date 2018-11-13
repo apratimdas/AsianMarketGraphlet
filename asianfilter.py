@@ -1,9 +1,12 @@
 import re
 import operator
 
+enumclass = []
+
 finaldict = {}
 ctr = 1
 pricelist = []
+netpricet = 0
 netprice = 0
 
 filename = "test-combined1995.txt"
@@ -18,18 +21,19 @@ total_pre_calc = 0
 with open(filename, "r", encoding='utf-16') as ins:
     namelisttemp = []
     for line in ins:
-        print(line)
+        # print(line)
         valctr = 0
         value = re.findall(': [0-9]*', line)
         for val in value:
-            print(val)
+            # print(val)
             valctr = int(val[2:])
-            print(valctr)
-            netprice += valctr
+            # print(valctr)
+            netpricet += valctr
 
-print(netprice)
-input("enter")
-threshold = int(total_pre_calc*0.9)
+# print(netpricet)
+# input("enter")
+total_pre_calc = netpricet
+threshold = int(netpricet*0.9)
 
 anamelist = []
 with open("asianlist.txt", "r") as ins:
@@ -37,7 +41,7 @@ with open("asianlist.txt", "r") as ins:
         anamelist.append(line[:-1])
 
 
-with open(filename, "r") as ins:
+with open(filename, "r", encoding='utf-16') as ins:
     namelist = []
     for line in ins:
         valctr = 0
@@ -56,8 +60,8 @@ with open(filename, "r") as ins:
         vertex_b = line[idx+4:line.find(':')-1]
         # vertex_a = re.findall(".*[><-]", line)[0][:-4]
         # vertex_b = re.findall('[><-].* : ',line)[0][4:-3]
-        # if vertex_a in anamelist or vertex_b in anamelist:
-        #     continue
+        if vertex_a not in anamelist and vertex_b not in anamelist:
+            continue
         # print(str(vertex_a) + ' -- ' + str(vertex_b))
         temp = []
         i1 = 0
@@ -104,12 +108,18 @@ print(len(namelist))
 
 sorted_d = sorted(finaldict.items(), key=operator.itemgetter(1), reverse=True)
 
+delcount = 0
+
 while threshold < total_pre_calc:
     threshold += sorted_d[-1][1]
     finaldict.pop(sorted_d[-1][0])
     # print("deleted " + str(sorted_d[-1]))
     del sorted_d[-1]
+    delcount += 1
     sorted_d.pop()
+
+# print(delcount)
+# input("enter")
 
 uniquenodelist = []
 for edge in finaldict:
